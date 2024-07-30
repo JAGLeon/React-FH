@@ -1,0 +1,1 @@
+const promesa = new Promise();
